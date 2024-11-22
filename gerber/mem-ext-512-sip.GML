@@ -1,0 +1,21 @@
+G04 DipTrace 5.0.0.1*
+G04 mem-ext-512-sip.GML*
+%MOIN*%
+G04 #@! TF.FileFunction,Profile*
+G04 #@! TF.Part,Single*
+%ADD12C,0.005512*%
+%FSLAX26Y26*%
+G04*
+G70*
+G90*
+G75*
+G01*
+G04 BoardOutline*
+%LPD*%
+X393701Y1993701D2*
+D12*
+X3993705D1*
+Y393701D1*
+X393705D1*
+X393701Y1993701D1*
+M02*
