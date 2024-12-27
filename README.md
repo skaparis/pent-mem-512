@@ -28,6 +28,13 @@ https://www.8bit.lt/ru/pentagon/pentagon-128k/rasshirenie-pamjati-do-512k-na-sra
 * 74HC08 / 1533ТМ2
 * 74HC74 / 1533ЛИ1
 
+## Использование микросхем памяти
+
+* BS62LV4006SIP55 (Brilliance Semiconductor)
+* K6X4008C1F-GF55 (Samsung)
+* HY628400A (Hynix) - надо тестировать
+
+
 ## Изображения
 Плата сверху
 ![Макет платы](/images/pcb.jpg)
@@ -43,4 +50,16 @@ https://www.8bit.lt/ru/pentagon/pentagon-128k/rasshirenie-pamjati-do-512k-na-sra
 # Дальнейшие планы
 * DIP корпуса
 * Вариант под 1024Кб. (Да, да он есть в варианте от Александра Евдокимова, но тот под плату от 2024 года, которой у меня нет).
+* Kicad
 
+## Готовая плата
+![Чистая плата 1](/images/pcb-1.jpg)
+![Чистая плата 2](/images/pcb-2.jpg)
+![Сборка 1](/mages/install-1.jpg)
+![Сборка 2](/images/install-2.jpg)
+![Сборка 3](/images/install-3.jpg)
+![Сборка 4](/images/install-4.jpg)
+![Сборка 5](/images/install-5.jpg)
+
+## Схема
+![Схема](/images/scheme.png)
